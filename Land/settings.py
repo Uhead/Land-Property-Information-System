@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+#comments added b Nasif to check for proper commit
+
 
 # Application definition
 
